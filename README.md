@@ -1,25 +1,167 @@
-# Hi, I'm Siddharth Kumar 👋
+<h1 align="center">Hi 👋, I'm Siddharth Kumar</h1>
+<h3 align="center">Final Year Computer Science Engineering Student | Software Developer | AI/ML Enthusiast</h3>
 
-🎓 Final Year B.Tech CSE Student at Presidency University
-📍 Bengaluru, India
-💻 Aspiring Software Engineer | AI/ML Enthusiast | Cybersecurity Learner
+<p align="center">
+  <a href="https://github.com/SID-CSE">
+    <img src="https://komarev.com/ghpvc/?username=SID-CSE&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-## About Me
-- CGPA: 9.05
-- Infosys Springboard Virtual Internship Shortlisted
-- Experience in Machine Learning, Data Analytics, Full Stack Development, and Cybersecurity
-- Solving DSA problems on LeetCode and HackerRank
+---
 
-## Tech Stack
-- Languages: Python, Java, SQL, JavaScript
-- ML: Scikit-Learn, XGBoost, Pandas, NumPy
-- Web: HTML, CSS, JavaScript, Streamlit
-- Database: MySQL
-- Cloud: Azure, Cloudinary
-- Tools: Git, GitHub, VS Code
+## 🚀 About Me
 
-## Current Focus
+🎓 Final Year B.Tech CSE Student at Presidency University, Bengaluru
+
+📊 CGPA: 9.05
+
+💻 Passionate about:
 - Software Development
-- Machine Learning Projects
+- Machine Learning & AI
+- Data Analytics
 - Cloud Computing
-- DSA & Interview Preparation
+- Cybersecurity
+- Full Stack Development
+
+🌱 Currently Learning:
+- Advanced Machine Learning
+- Cloud Technologies
+- System Design
+- Data Structures & Algorithms
+
+🎯 Goal:
+To build scalable software solutions and contribute to impactful technology products.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Machine Learning & Data Science
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+### Web Development
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+
+---
+
+## 📂 Featured Projects
+
+### 💰 Employee Salary Predictor
+- Machine Learning based salary prediction system
+- XGBoost Regression Model
+- Streamlit Dashboard
+- Batch Prediction Support
+- Model Performance Analytics
+
+### 🛒 ZENSHOP E-Commerce Platform
+- Complete E-Commerce Website
+- SRS Documentation
+- Database Design
+- User Management
+
+### 📚 University Library Management System
+- Final Year Capstone Project
+- Library Operations Automation
+- Database Management
+- Book Tracking System
+
+### 🐄 Remote Farm Animal Monitoring System
+- Raspberry Pi Based IoT Solution
+- Real-Time Monitoring
+- Animal Health Tracking
+- Sensor Integration
+
+### 🏠 Smart Home Automation System
+- Voice Controlled Devices
+- Smart Doorbell
+- Fire Detection
+- Gas Leak Detection
+
+### 🔐 Recon Automation for Web Pentesting
+- Information Gathering Toolkit
+- Port Scanning
+- Subdomain Enumeration
+- Security Assessment Utilities
+
+---
+
+## 🏆 Achievements
+
+✅ CGPA: 9.05
+
+✅ Completed Cybersecurity Internship
+
+✅ Shortlisted for Infosys Springboard Virtual Internship
+
+✅ Developed AI/ML, IoT, Web Development and Cybersecurity Projects
+
+✅ Active Problem Solver on LeetCode & HackerRank
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SID-CSE&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SID-CSE&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SID-CSE&theme=tokyonight" />
+</p>
+
+---
+
+## 📚 Coding Profiles
+
+- LeetCode
+- HackerRank
+- FACEPrep
+
+(Add profile links)
+
+---
+
+## 📜 Certifications
+
+- Cybersecurity Internship
+- Infosys Springboard Programs
+- Azure Cloud Learning
+- Machine Learning Certifications
+
+(Add certificate links)
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: siddharthkumaryo@gmail.com
+
+📍 Bengaluru, Karnataka, India
+
+💼 LinkedIn: (Add LinkedIn URL)
+
+🌐 Portfolio: (Add Portfolio URL)
+
+---
+
+⭐ "Always learning, always building, always improving."
