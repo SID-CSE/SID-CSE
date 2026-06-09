@@ -62,24 +62,29 @@ To build scalable software solutions and contribute to impactful technology prod
 
 ## 📂 Featured Projects
 
+
+### 📰 CONTIFY – Content Management System
+ - Dynamic Content Creation & Publishing Platform
+ - User-Friendly Admin Dashboard
+ - Role-Based Access Control
+ - Media & Content Management
+ - Secure Authentication System
+ - Responsive Web Interface
+
+### 👥 TalentLink – Talent Acquisition Platform
+- AI-Powered Candidate Screening & Matching
+- Job Posting & Application Management
+- Resume Analysis & Skill Assessment
+- Recruiter and Candidate Dashboards
+- Real-Time Application Tracking
+- Secure Authentication & Role-Based Access
+
 ### 💰 Employee Salary Predictor
 - Machine Learning based salary prediction system
 - XGBoost Regression Model
 - Streamlit Dashboard
 - Batch Prediction Support
 - Model Performance Analytics
-
-### 🛒 ZENSHOP E-Commerce Platform
-- Complete E-Commerce Website
-- SRS Documentation
-- Database Design
-- User Management
-
-### 📚 University Library Management System
-- Final Year Capstone Project
-- Library Operations Automation
-- Database Management
-- Book Tracking System
 
 ### 🐄 Remote Farm Animal Monitoring System
 - Raspberry Pi Based IoT Solution
@@ -104,8 +109,6 @@ To build scalable software solutions and contribute to impactful technology prod
 ## 🏆 Achievements
 
 ✅ CGPA: 9.05
-
-✅ Completed Cybersecurity Internship
 
 ✅ Shortlisted for Infosys Springboard Virtual Internship
 
@@ -133,24 +136,9 @@ To build scalable software solutions and contribute to impactful technology prod
 
 ## 📚 Coding Profiles
 
-- LeetCode
-- HackerRank
-- FACEPrep
+- LeetCode : https://leetcode.com/u/SID_CSE/
+- HackerRank : https://www.hackerrank.com/profile/siddharthkumaryo
 
-(Add profile links)
-
----
-
-## 📜 Certifications
-
-- Cybersecurity Internship
-- Infosys Springboard Programs
-- Azure Cloud Learning
-- Machine Learning Certifications
-
-(Add certificate links)
-
----
 
 ## 📫 Connect With Me
 
@@ -158,9 +146,9 @@ To build scalable software solutions and contribute to impactful technology prod
 
 📍 Bengaluru, Karnataka, India
 
-💼 LinkedIn: (Add LinkedIn URL)
+💼 LinkedIn: https://www.linkedin.com/in/siddharthkumaryo/
 
-🌐 Portfolio: (Add Portfolio URL)
+🌐 Portfolio: Coming Soon ...
 
 ---
 
