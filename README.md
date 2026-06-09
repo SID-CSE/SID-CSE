@@ -1,155 +1,193 @@
-<h1 align="center">Hi 👋, I'm Siddharth Kumar</h1>
-<h3 align="center">Final Year Computer Science Engineering Student | Software Developer | AI/ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/SID-CSE">
-    <img src="https://komarev.com/ghpvc/?username=SID-CSE&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Siddharth%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Final+Year+CSE+%40+Presidency+University;Full+Stack+%7C+AI%2FML+%7C+Cloud+Engineer;CGPA%3A+9.05+%7C+Always+Learning)](https://git.io/typing-svg)
+
+<p>
+  <a href="https://linkedin.com/in/siddharthkumaryo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:siddharthkumaryo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/SID-CSE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/SID_CSE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/siddharthkumaryo"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=SID-CSE&label=Profile+Views&color=6AD3F7&style=flat-square" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Final Year B.Tech CSE Student at Presidency University, Bengaluru
+```python
+class SiddharthKumar:
+    role       = "Final Year B.Tech CSE Student @ Presidency University, Bengaluru"
+    cgpa       = 9.05
+    interests  = ["AI/ML", "Full-Stack Development", "Cloud Computing",
+                  "System Design", "Cybersecurity"]
+    currently  = ["Advanced Machine Learning", "System Design", "DSA"]
+    goal       = "Build scalable software solutions that create real-world impact"
+    available  = True  # Open to internships & full-time roles
+```
 
-📊 CGPA: 9.05
+---
 
-💻 Passionate about:
-- Software Development
-- Machine Learning & AI
-- Data Analytics
-- Cloud Computing
-- Cybersecurity
-- Full Stack Development
+## 💼 Work Experience
 
-🌱 Currently Learning:
-- Advanced Machine Learning
-- Cloud Technologies
-- System Design
-- Data Structures & Algorithms
-
-🎯 Goal:
-To build scalable software solutions and contribute to impactful technology products.
+| Period | Role | Organization |
+|--------|------|-------------|
+| Nov 2025 – Jan 2026 | **Full Stack Python Intern** | Infosys Springboard |
+| Jul 2025 – Aug 2025 | **AI & ML Intern** | AICTE – Edunet Foundation – IBM SkillsBuild |
+| Jun 2024 – Aug 2024 | **Cybersecurity Mentee** | 1Stop.ai – E-Cell IIT Roorkee |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Machine Learning & Data Science
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### 🤖 AI / ML & Data Science
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 📂 Featured Projects
-
-
-### 📰 CONTIFY – Content Management System
- - Dynamic Content Creation & Publishing Platform
- - User-Friendly Admin Dashboard
- - Role-Based Access Control
- - Media & Content Management
- - Secure Authentication System
- - Responsive Web Interface
-
-### 👥 TalentLink – Talent Acquisition Platform
-- AI-Powered Candidate Screening & Matching
-- Job Posting & Application Management
-- Resume Analysis & Skill Assessment
-- Recruiter and Candidate Dashboards
-- Real-Time Application Tracking
-- Secure Authentication & Role-Based Access
-
-### 💰 Employee Salary Predictor
-- Machine Learning based salary prediction system
-- XGBoost Regression Model
-- Streamlit Dashboard
-- Batch Prediction Support
-- Model Performance Analytics
-
-### 🐄 Remote Farm Animal Monitoring System
-- Raspberry Pi Based IoT Solution
-- Real-Time Monitoring
-- Animal Health Tracking
-- Sensor Integration
-
-### 🏠 Smart Home Automation System
-- Voice Controlled Devices
-- Smart Doorbell
-- Fire Detection
-- Gas Leak Detection
-
-### 🔐 Recon Automation for Web Pentesting
-- Information Gathering Toolkit
-- Port Scanning
-- Subdomain Enumeration
-- Security Assessment Utilities
+### ☁️ Cloud & Tools
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ---
 
-## 🏆 Achievements
+## 🚀 Featured Projects
 
-✅ CGPA: 9.05
+<table>
+<tr>
+<td width="50%">
 
-✅ Shortlisted for Infosys Springboard Virtual Internship
+### 👥 [TalentLink](https://github.com/SID-CSE)
+**Client-Freelancer Full-Stack Platform**
 
-✅ Developed AI/ML, IoT, Web Development and Cybersecurity Projects
+`React` `Django` `PostgreSQL` `Figma`
 
-✅ Active Problem Solver on LeetCode & HackerRank
+A full-stack marketplace connecting clients and freelancers with responsive UIs, real-time tracking, and seamless backend integration.
+
+</td>
+<td width="50%">
+
+### 📰 [Contify](https://github.com/SID-CSE)
+**Role-Based Content Management System**
+
+`Spring Boot` `React` `PHP` `MySQL` `Cloudinary`
+
+CMS with workflow automation, task assignment, notifications, messaging, and cloud-based media management.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💰 [SmartPay4](https://github.com/SID-CSE)
+**Employee Salary Prediction System**
+
+`Python` `Streamlit` `XGBoost`
+
+ML application for salary prediction using XGBoost regression, data analytics, and a live Streamlit dashboard.
+
+</td>
+<td width="50%">
+
+### 🔐 [Recon Automation](https://github.com/SID-CSE)
+**Web Pentesting Toolkit**
+
+`Python` `Cybersecurity`
+
+Automates reconnaissance: IP/port scanning, subdomain enumeration, and information gathering for security assessments.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Statistics
+## 🏆 Certifications
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SID-CSE&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SID-CSE&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SID-CSE&theme=tokyonight" />
-</p>
+| Certification | Issuer | Score |
+|---------------|--------|-------|
+| Neural Networks for Computer Vision & NLP | NPTEL – IIT Guwahati | Elite + Gold (90%) |
+| Machine Learning for Engineering & Science | NPTEL – IIT Madras | Elite + Silver (75%) |
+| Generative AI Professional | Oracle Cloud Infrastructure | — |
+| Data Science Professional | Oracle Cloud Infrastructure | — |
+| AI Fundamentals | IBM SkillsBuild | — |
 
 ---
 
-## 📚 Coding Profiles
+## 📊 GitHub Stats
 
-- LeetCode : https://leetcode.com/u/SID_CSE/
-- HackerRank : https://www.hackerrank.com/profile/siddharthkumaryo
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SID-CSE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SID-CSE&layout=compact&theme=tokyonight&hide_border=true" />
 
-## 📫 Connect With Me
+</div>
 
-📧 Email: siddharthkumaryo@gmail.com
+<div align="center">
 
-📍 Bengaluru, Karnataka, India
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SID-CSE&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-💼 LinkedIn: https://www.linkedin.com/in/siddharthkumaryo/
-
-🌐 Portfolio: Coming Soon ...
+</div>
 
 ---
 
-⭐ "Always learning, always building, always improving."
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Siddharth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SID-CSE&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```
+📌  Building scalable full-stack applications
+📌  Deepening expertise in ML model deployment
+📌  Exploring System Design patterns
+📌  Competitive programming on LeetCode & HackerRank
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+*"Always learning, always building, always improving."*
+
+**📍 Bengaluru, Karnataka, India &nbsp;|&nbsp; 📧 siddharthkumaryo@gmail.com**
+
+</div>
