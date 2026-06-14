@@ -33,16 +33,6 @@ class SiddharthKumar:
 
 ---
 
-## 💼 Work Experience
-
-| Period | Role | Organization |
-|--------|------|-------------|
-| Nov 2025 – Jan 2026 | **Full Stack Python Intern** | Infosys Springboard |
-| Jul 2025 – Aug 2025 | **AI & ML Intern** | AICTE – Edunet Foundation – IBM SkillsBuild |
-| Jun 2024 – Aug 2024 | **Cybersecurity Mentee** | 1Stop.ai – E-Cell IIT Roorkee |
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🔤 Languages
@@ -129,18 +119,6 @@ Automates reconnaissance: IP/port scanning, subdomain enumeration, and informati
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 Certifications
-
-| Certification | Issuer | Score |
-|---------------|--------|-------|
-| Neural Networks for Computer Vision & NLP | NPTEL – IIT Guwahati | Elite + Gold (90%) |
-| Machine Learning for Engineering & Science | NPTEL – IIT Madras | Elite + Silver (75%) |
-| Generative AI Professional | Oracle Cloud Infrastructure | — |
-| Data Science Professional | Oracle Cloud Infrastructure | — |
-| AI Fundamentals | IBM SkillsBuild | — |
 
 ---
 
