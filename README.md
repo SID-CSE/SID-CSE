@@ -102,7 +102,7 @@ CMS with workflow automation, task assignment, notifications, messaging, and clo
 ### 💰 [SmartPay4](https://github.com/SID-CSE)
 **Employee Salary Prediction System**
 
-`Python` `Streamlit` `XGBoost`
+`Python` `Streamlit` `XGBoost` `Scikit-learn`
 
 ML application for salary prediction using XGBoost regression, data analytics, and a live Streamlit dashboard.
 
