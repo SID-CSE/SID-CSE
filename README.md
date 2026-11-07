@@ -10,6 +10,7 @@
   <a href="https://github.com/SID-CSE"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/u/SID_CSE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.hackerrank.com/profile/siddharthkumaryo"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://portfolio-siddharth04.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=SID-CSE&label=Profile+Views&color=6AD3F7&style=flat-square" />
@@ -26,7 +27,7 @@ class SiddharthKumar:
     cgpa       = 9.05
     interests  = ["AI/ML", "Full-Stack Development", "Cloud Computing",
                   "System Design", "Cybersecurity"]
-    currently  = ["Advanced Machine Learning", "System Design", "DSA"]
+    currently  = ["Full-Stack Development", "Machine Learning", "DSA"]
     goal       = "Build scalable software solutions that create real-world impact"
     available  = True  # Open to internships & full-time roles
 ```
@@ -77,7 +78,7 @@ class SiddharthKumar:
 <tr>
 <td width="50%">
 
-### 👥 [TalentLink](https://github.com/SID-CSE)
+### 👥 [TalentLink](https://github.com/springboardmentor182c-t/talentlink)
 **Client-Freelancer Full-Stack Platform**
 
 `React` `Django` `PostgreSQL` `Figma`
@@ -87,7 +88,7 @@ A full-stack marketplace connecting clients and freelancers with responsive UIs,
 </td>
 <td width="50%">
 
-### 📰 [Contify](https://github.com/SID-CSE)
+### 📰 [Contify](https://github.com/SID-CSE/CMS-Project)
 **Role-Based Content Management System**
 
 `Spring Boot` `React` `PHP` `MySQL` `Cloudinary`
@@ -99,7 +100,7 @@ CMS with workflow automation, task assignment, notifications, messaging, and clo
 <tr>
 <td width="50%">
 
-### 💰 [SmartPay4](https://github.com/SID-CSE)
+### 💰 [SmartPay4](https://github.com/SID-CSE/SmartPay)
 **Employee Salary Prediction System**
 
 `Python` `Streamlit` `XGBoost` `Scikit-learn`
@@ -109,12 +110,12 @@ ML application for salary prediction using XGBoost regression, data analytics, a
 </td>
 <td width="50%">
 
-### 🔐 [Recon Automation](https://github.com/SID-CSE)
-**Web Pentesting Toolkit**
+### 🤖 [ActionFlow AI](https://github.com/SID-CSE/AI-Voice-To-Action)
+**AI-Powered Meeting Action Extraction**
 
-`Python` `Cybersecurity`
+`Python` `React` `Gemini API` `NLP` `LLM`
 
-Automates reconnaissance: IP/port scanning, subdomain enumeration, and information gathering for security assessments.
+Transforms meeting conversations into structured, reviewable action items by extracting tasks, owners, deadlines, risks, and unresolved ambiguities from voice and text transcripts using AI-powered extraction and deterministic validation.
 
 </td>
 </tr>
